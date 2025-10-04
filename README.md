@@ -1,7 +1,8 @@
 # 🚀 Shivani Shinde  
 
 <!-- Banner -->
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/10/Idp-diagram-01.gif.gif" alt="banner" width="100%" height="250px"> 
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%" height="400px"> 
+</p> 
 
 <!-- Typing Animation -->
 <p align="center">
