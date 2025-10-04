@@ -18,7 +18,7 @@
   <a href="mailto:shivanishinde220408@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1qMP2iEKD8_hw_U-AKa_i66Ur_PX8QMVl/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/13zjqlS2gWrQtufV2FkhkhXqrOv-wyO0c/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
